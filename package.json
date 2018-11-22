@@ -1,6 +1,6 @@
 {
     "name": "typescript-rest-next",
-    "version": "1.7.6",
+    "version": "1.7.7",
     "description": "A Library to create RESTFul APIs with Typescript. Fixed version of original 'typescript-rest' with ability to call middleware after route functions",
     "author": "Ruslan Shakirov",
     "keywords": [
